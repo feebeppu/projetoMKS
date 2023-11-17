@@ -1,8 +1,10 @@
-# React + Vite
+# PROJETO DE LOJA USANDO REACTJS + VITE
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p>Desenvolvimento de uma loja de produtos com carrinho, utilizando ReactJS!</p>
 
-Currently, two official plugins are available:
+<ul>
+  <li>Acabei não optando pelo uso do TypeScript, pois é uma ferramenta que ainda estou aprendendo e me especializando, e como tinha pouco tempo por conta do meu trabalho atual, não iria conseguir entregar um serviço que estaria 100% aos meus olhos, visando um código limpo e bem estruturado</li>
+  <li>Testes unitários com JEST e testing-library eram ferramentas que conhecia, mas não havia aplicado ainda em projetos práticos, porém, nesse curto tempo me dediquei para aprender e aplicar pelo menos o conceito e o básico de testes, executando e passando.</li>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  <li>Link vercel: https://projeto-mks-five.vercel.app/</li>
+</ul>
